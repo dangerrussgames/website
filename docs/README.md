@@ -1,3 +1,5 @@
-# Headline
+# Danger Russ Games
 
-> An awesome project.
+>! TODO impl website
+
+For now, check out my blog/portfolio at [russmatney.com](https://russmatney.com)
